@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='5.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='false' importAppTypes='true'>
-    <timeline fileName='timeline.xctimeline'/>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Ex1'/>
+        <page name='Ex2'/>
+        <page name='Ex3'/>
+        <page name='Ex4'/>
+        <page name='Ex5'/>
+        <page name='Ex6'/>
+        <page name='Ex7'/>
+        <page name='Ex8'/>
+        <page name='Ex9'/>
+        <page name='Ex10'/>
+        <page name='Ex11'/>
+        <page name='Ex12'/>
+        <page name='Ex13'/>
+        <page name='Ex14'/>
+        <page name='Ex15'/>
+        <page name='Ex16'/>
+        <page name='Ex17'/>
+    </pages>
 </playground>
